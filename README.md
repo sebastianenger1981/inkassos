@@ -4,7 +4,7 @@ Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive fü
 More of my projects can be found here:
 
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
-https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br><br>
+https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 https://www.articlerewriter1.com/ - Article Rewriter: Your No. 1 Rewriter Tool | ArticleRewriter1.com<br>
 https://www.freearticle1.net/ - Free Text: Write free article by AI | FreeArticle1.net<br>
 https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com<br>
