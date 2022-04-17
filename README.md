@@ -1,9 +1,9 @@
 # inkassos
-Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive für Verbraucher
+<strong><h1>Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive für Verbraucher</h1></strong><br><br>
 <br>
 Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
-<br>
-<b>Inhaltsverzeichnis der Inkasso Verteidigung</b>
+<br><br>
+<b>Inhaltsverzeichnis der Inkasso Verteidigung</b><br><br>
 SHAEF Gesetze gelten<br>
 Deutschland steht unter Kriegsrecht<br>
 Zwangspfändungen sind illegal<br>
@@ -21,9 +21,9 @@ Wichtige Urteile<br>
 Entkräftung von Drohgebärden der Inkasso-Dienstleister<br>
 Konsequenzen für rechtswidriges Verhalten von Inkassos<br>
 Weitere Links<br>
-<br>
+<br><br>
 More of my projects can be found here:<br>
-<br>
+<br><br>
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
 https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 https://www.articlerewriter1.com/ - Article Rewriter: Your No. 1 Rewriter Tool | ArticleRewriter1.com<br>
