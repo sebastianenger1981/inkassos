@@ -3,6 +3,8 @@
 <br>
 Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
 <br><br>
+Neuste Version: https://github.com/sebastianenger1981/inkassos/blob/main/2022-04-15%20Verteidigung%20gegen%20Inkasso%20f%C3%BCr%20Verbraucher%20(rechthaben.net).pdf
+<br><br>
 <b>Inhaltsverzeichnis der Inkasso Verteidigung</b><br><br>
 SHAEF Gesetze gelten<br>
 Deutschland steht unter Kriegsrecht<br>
