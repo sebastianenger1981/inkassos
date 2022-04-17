@@ -1,6 +1,28 @@
 # inkassos
 Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive für Verbraucher
 
+Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
+
+Inhaltsverzeichnis
+Quelle...................................................................................................................................................1
+SHAEF Gesetze gelten.........................................................................................................................2
+Deutschland steht unter Kriegsrecht.....................................................................................................2
+Zwangspfändungen sind illegal............................................................................................................3
+Privatrechtliche Firmen dürfen kein staatliches Recht sprechen oder ausführen.................................3
+Historisches zur Bundesrepublik Deutschland (BRD).........................................................................5
+Forderungstitel bzw. Schuldtitel...........................................................................................................6
+Personalausweis ungültig laut geltendem Personalausweisgesetz - PAuswG.....................................9
+Steuerbetrug und Beihilfe zum Steuerbetrug.......................................................................................9
+GESARA und NESARA....................................................................................................................10
+Eidesstattliche Versicherung..............................................................................................................11
+Bundesverfassungsgericht - Aktenzeichen AR 85 73/21...................................................................11
+Forderungstitel und Klauselumschreibung.........................................................................................13
+Ohne originale Urkunde kein Fall......................................................................................................15
+Wichtige Urteile.................................................................................................................................16
+Entkräftung von Drohgebärden der Inkasso-Dienstleister.................................................................17
+Konsequenzen für rechtswidriges Verhalten von Inkassos................................................................18
+Weitere Links.....................................................................................................................................18
+
 More of my projects can be found here:
 
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
