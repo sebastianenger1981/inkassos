@@ -1,30 +1,29 @@
 # inkassos
 Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive für Verbraucher
-
+<br>
 Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
-
-Inhaltsverzeichnis
-Quelle...................................................................................................................................................1
-SHAEF Gesetze gelten.........................................................................................................................2
-Deutschland steht unter Kriegsrecht.....................................................................................................2
-Zwangspfändungen sind illegal............................................................................................................3
-Privatrechtliche Firmen dürfen kein staatliches Recht sprechen oder ausführen.................................3
-Historisches zur Bundesrepublik Deutschland (BRD).........................................................................5
-Forderungstitel bzw. Schuldtitel...........................................................................................................6
-Personalausweis ungültig laut geltendem Personalausweisgesetz - PAuswG.....................................9
-Steuerbetrug und Beihilfe zum Steuerbetrug.......................................................................................9
-GESARA und NESARA....................................................................................................................10
-Eidesstattliche Versicherung..............................................................................................................11
-Bundesverfassungsgericht - Aktenzeichen AR 85 73/21...................................................................11
-Forderungstitel und Klauselumschreibung.........................................................................................13
-Ohne originale Urkunde kein Fall......................................................................................................15
-Wichtige Urteile.................................................................................................................................16
-Entkräftung von Drohgebärden der Inkasso-Dienstleister.................................................................17
-Konsequenzen für rechtswidriges Verhalten von Inkassos................................................................18
-Weitere Links.....................................................................................................................................18
-
-More of my projects can be found here:
-
+<br>
+<b>Inhaltsverzeichnis der Inkasso Verteidigung</b>
+SHAEF Gesetze gelten<br>
+Deutschland steht unter Kriegsrecht<br>
+Zwangspfändungen sind illegal<br>
+Privatrechtliche Firmen dürfen kein staatliches Recht sprechen oder ausführen<br>
+Historisches zur Bundesrepublik Deutschland (BRD)<br>
+Forderungstitel bzw. Schuldtitel<br>
+Personalausweis ungültig laut geltendem Personalausweisgesetz - PAuswG<br>
+Steuerbetrug und Beihilfe zum Steuerbetrug<br>
+GESARA und NESARA<br>
+Eidesstattliche Versicherung<br>
+Bundesverfassungsgericht - Aktenzeichen AR 85 73/21<br>
+Forderungstitel und Klauselumschreibung<br>
+Ohne originale Urkunde kein Fall<br>
+Wichtige Urteile<br>
+Entkräftung von Drohgebärden der Inkasso-Dienstleister<br>
+Konsequenzen für rechtswidriges Verhalten von Inkassos<br>
+Weitere Links<br>
+<br>
+More of my projects can be found here:<br>
+<br>
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
 https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 https://www.articlerewriter1.com/ - Article Rewriter: Your No. 1 Rewriter Tool | ArticleRewriter1.com<br>
