@@ -3,7 +3,7 @@
 <br>
 Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
 <br><br>
-Neuste Version: https://github.com/sebastianenger1981/inkassos/blob/main/2022-05-04%20Verteidigung%20gegen%20Inkasso%20f%C3%BCr%20Verbraucher_(rechthaben.net).pdf
+Neuste Version: https://github.com/sebastianenger1981/inkassos/blob/main/2022-05-06%20Forderungsmanagement%20bzw.%20Inkasso%20aus%20einer%20l%C3%B6sungsorientierten%20Perspektive%20f%C3%BCr%20Verbraucher_(rechthaben.net).pdf
 <br><br>
 <b>Inhaltsverzeichnis der Inkasso Verteidigung</b><br><br>
 Einleitung<br>
