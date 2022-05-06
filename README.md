@@ -1,4 +1,4 @@
-# inkassos
+# Verteidigung gegen Inkassos und Inkasso Dienstleister
 <strong><h1>Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive für Verbraucher</h1></strong><br><br>
 <br>
 Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
