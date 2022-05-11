@@ -3,7 +3,7 @@
 <br>
 Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
 <br><br>
-Kaufe oder verschenke die KINDLE Version auf Amazon.de - https://www.amazon.de/dp/B09ZSMH2GN
+<strong>Kaufe oder verschenke die KINDLE Version auf Amazon.de - https://www.amazon.de/dp/B09ZSMH2GN </strong>
 <br><br>
 Neuste Version: https://github.com/sebastianenger1981/inkassos/blob/main/2022-05-09%20Forderungsmanagement%20bzw.%20Inkasso%20aus%20einer%20l%C3%B6sungsorientierten%20Perspektive%20f%C3%BCr%20Verbraucher_(rechthaben.net).pdf
 <br><br>
