@@ -71,7 +71,7 @@ https://www.artikelschreiber.com/marketing/<br />
 <br><br>
 https://rechthaben.net/inkasso/inkassos/<br>
 https://rechthaben.net/jura/tadel-fuer-auer-witte-thiel/<br>
-https://rechthaben.net/rechtsanwalt/auer-witte-thiel-rechtsanwaelte/v
+https://rechthaben.net/rechtsanwalt/auer-witte-thiel-rechtsanwaelte/<br>
 https://rechthaben.net/shaef/shaef-strafanzeige/<br>
 https://rechthaben.net/beratung/rundfunkbeitrag/<br>
 https://rechthaben.net/inkasso/sigma-kreditbank/<br>
