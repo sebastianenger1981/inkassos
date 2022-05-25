@@ -71,6 +71,7 @@ https://www.artikelschreiber.com/marketing/paraphrase/<br />
 https://www.artikelschreiber.com/marketing/review/<br />
 https://www.artikelschreiber.com/marketing/<br />
 <br><br>
+https://rechthaben.net/gesundheit/lichtkoerper/<br>
 https://rechthaben.net/inkasso/inkassos/<br>
 https://rechthaben.net/beratung/zensus-2022/<br>
 https://rechthaben.net/jura/tadel-fuer-auer-witte-thiel/<br>
