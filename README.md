@@ -71,6 +71,7 @@ https://www.artikelschreiber.com/marketing/paraphrase/<br />
 https://www.artikelschreiber.com/marketing/review/<br />
 https://www.artikelschreiber.com/marketing/<br />
 <br><br>
+https://rechthaben.net/beratung/mahnung-und-zahlungserinnerungen/<br>
 https://rechthaben.net/beratung/widerspruch-gegen-gaspreise/<br>
 https://rechthaben.net/beratung/keine-einlassung-mehr-machen/<br>
 https://rechthaben.net/gesundheit/e-stoffe/<br>
