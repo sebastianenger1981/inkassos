@@ -51,6 +51,7 @@ https://www.entrepreneur1.net/ - Tools for Entrepreneur, Entrepre & Intrapreneur
 https://www.paraphrase1.com/ - Paraphrase: Your rewriter tool for rephrase & paraphraser | Paraphrase1.com<br>
 https://www.entrepreneurship1.com/ - Entrepreneurship: Tools for Entrepreneurs & entrepre | Entrepreneurship1.com<br>
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
+https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
 <br><br>
 https://www.artikelschreiber.com/es/<br />
 https://www.artikelschreiber.com/fr/<br />
