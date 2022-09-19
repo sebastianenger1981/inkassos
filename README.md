@@ -53,6 +53,10 @@ https://www.entrepreneurship1.com/ - Entrepreneurship: Tools for Entrepreneurs &
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
 https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
 https://www.artikelschreiber.com/status/ - ArtikelSchreiber.com Changelog and Status Information<br>
+http://artikelschreiber.net/<br> 
+http://sebastianenger.com/<br> 
+http://unaique.de/<br> 
+http://unaique.org/<br>
 <br><br>
 https://www.artikelschreiber.com/es/<br />
 https://www.artikelschreiber.com/fr/<br />
