@@ -44,7 +44,6 @@ https://rechthaben.net/ - Zu Recht & Recht Haben | RechtHaben.net<br>
 https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 https://www.articlerewriter1.com/ - Article Rewriter: Your No. 1 Rewriter Tool | ArticleRewriter1.com<br>
 https://www.freearticle1.net/ - Free Text: Write free article by AI | FreeArticle1.net<br>
-https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com<br>
 https://www.schreiben1.com/ - Schreiben für Artikel, Blog, Vlog, Business & Sales | Schreiben1.com<br>
 https://buzzerstar.com/ - Kreiere: Schreibe tollen Text & Artikel | BuzzerStar.com<br>
 https://www.entrepreneur1.net/ - Tools for Entrepreneur, Entrepre & Intrapreneur | entrepreneur1.net<br>
@@ -57,6 +56,8 @@ http://artikelschreiber.net/<br>
 http://sebastianenger.com/<br> 
 http://unaique.de/<br> 
 http://unaique.org/<br>
+http://kitten1.com<br>
+http://mainecoon1.com<br>
 <br><br>
 https://www.artikelschreiber.com/es/<br />
 https://www.artikelschreiber.com/fr/<br />
