@@ -1,8 +1,7 @@
 # Verteidigung gegen Inkassos und Inkasso Dienstleister
 
-<strong><h1>Wie gehe ich mit einer Inkasso Forderung von Anwälten um?</h1></strong><br><br>
-<strong><h2>Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive für Verbraucher</h2></strong><br><br>
-<br>
+<strong><h1>Wie gehe ich mit einer Inkasso Forderung von Anwälten um?</h1></strong><br>
+<strong><h2>Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive für Verbraucher</h2></strong><br>
 Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
 <br><br>
 <strong>Kaufe oder verschenke die KINDLE Version auf Amazon.de - https://www.amazon.de/dp/B09ZSMH2GN </strong>
