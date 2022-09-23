@@ -33,7 +33,7 @@ Entkräftung von Drohgebärden der Inkasso-Dienstleister<br>
 Konsequenzen für rechtswidriges Verhalten von Inkassos<br>
 Weitere Links<br>
 <br><br>
-More of my projects can be found here:<br>
+Weitere Projekte:<br>
 <br><br>
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
 https://www.artikelschreiber.com/en/ - Article Generator: Write text for Marketing | ArtikelSchreiber.com<br>
@@ -52,6 +52,7 @@ https://www.entrepreneurship1.com/ - Entrepreneurship: Tools for Entrepreneurs &
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
 https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
 https://www.artikelschreiber.com/status/ - ArtikelSchreiber.com Changelog and Status Information<br>
+https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com
 http://artikelschreiber.net/<br> 
 http://sebastianenger.com/<br> 
 http://unaique.de/<br> 
