@@ -1,4 +1,4 @@
-# Verteidigung gegen Inkassos und Inkasso Dienstleister
+# Verteidigung gegen Inkassos und Inkasso Forderungen von Anwälten und Inkassobüros
 
 <strong><h1>Wie gehe ich mit einer Inkasso Forderung von Anwälten um?</h1></strong><br>
 <strong><h2>Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive für Verbraucher</h2></strong><br>
