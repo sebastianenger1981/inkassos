@@ -96,4 +96,4 @@ https://rechthaben.net/rechtsanwalt/auer-witte-thiel-rechtsanwaelte/<br>
 https://rechthaben.net/shaef/shaef-strafanzeige/<br>
 https://rechthaben.net/beratung/rundfunkbeitrag/<br>
 https://rechthaben.net/inkasso/sigma-kreditbank/<br>
-
+https://linktr.ee/textgenerator
