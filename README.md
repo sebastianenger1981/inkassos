@@ -51,6 +51,7 @@ https://www.paraphrase1.com/ - Paraphrase: Your rewriter tool for rephrase & par
 https://www.entrepreneurship1.com/ - Entrepreneurship: Tools for Entrepreneurs & entrepre | Entrepreneurship1.com<br>
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
 https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
+https://github.com/inkassos/inkasso - Inkasso Betrug aufgedeckt<br>
 https://www.artikelschreiber.com/status/ - ArtikelSchreiber.com Changelog and Status Information<br>
 https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com
 http://artikelschreiber.net/<br> 
