@@ -1,7 +1,7 @@
 # Verteidigung und Widerspruch gegen Inkassos und Inkasso Forderungen von Anwälten und Inkassobüros
 
 <strong><h1>Wie kann ich eine Inkasso-Forderung abwehren</h1></strong><br>
-<strong><h2>?SIE MÖCHTEN EINE INKASSO-FORDERUNG ABWEHREN?</h2></strong><br>
+<strong><h2>SIE MÖCHTEN EINE INKASSO-FORDERUNG ABWEHREN?</h2></strong><br>
 Ein Inkassounternehmen darf nicht einfach so Forderungen eintreiben. Sie können die Forderung abwehren [Muster und Anleitung hier downloaden]!
 
 <br><br>
