@@ -1,14 +1,15 @@
-# Verteidigung gegen Inkassos und Inkasso Forderungen von Anwälten und Inkassobüros
+# Verteidigung und Widerspruch gegen Inkassos und Inkasso Forderungen von Anwälten und Inkassobüros
 
-<strong><h1>Wie gehe ich mit einer Inkasso Forderung von Anwälten um?</h1></strong><br>
-<strong><h2>Forderungsmanagement bzw. Inkasso aus einer lösungsorientierten Perspektive für Verbraucher</h2></strong><br>
-Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
+<strong><h1>Wie kann ich eine Inkasso-Forderung abwehren</h1></strong><br>
+<strong><h2>?SIE MÖCHTEN EINE INKASSO-FORDERUNG ABWEHREN?</h2></strong><br>
+Ein Inkassounternehmen darf nicht einfach so Forderungen eintreiben. Sie können die Forderung abwehren [Muster und Anleitung hier downloaden]!
+
 <br><br>
+Neuste Version: https://github.com/sebastianenger1981/inkassos/blob/main/2022-10-03%20Wie%20kann%20ich%20eine%20Inkasso%20Forderung%20abwehren%20%5BMuster%20und%20Anleitung%5D%20%5BRechtHaben.net%5D.pdf
+<br><br>
+
 <strong>Kaufe oder verschenke die KINDLE Version auf Amazon.de - https://www.amazon.de/dp/B09ZSMH2GN </strong>
 <br><br>
-Neuste Version: https://github.com/sebastianenger1981/inkassos/blob/main/2022-05-21%20Forderungsmanagement%20bzw.%20Inkasso%20aus%20einer%20l%C3%B6sungsorientierten%20Perspektive%20f%C3%BCr%20Verbraucher_(rechthaben.net).pdf
-<br><br>
-
 <b>Inhaltsverzeichnis der Inkasso Verteidigung</b><br><br>
 Einleitung<br>
 Ungültige Rechtsmittel in der Bundesrepublik Deutschland<br>
