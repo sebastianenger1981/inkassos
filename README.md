@@ -38,18 +38,16 @@ Weitere Projekte:<br>
 <br><br>
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
 https://www.artikelschreiber.com/en/ - Article Generator: Write text for Marketing | ArtikelSchreiber.com<br>
+https://www.artikelschreiber.com/en/blog/ - ArtikelSchreiber Blog EN | ArtikelSchreiber.com<br>
+https://www.artikelschreiber.com/de/blog/ - ArtikelSchreiber Blog DE  | ArtikelSchreiber.com<br>
+https://www.artikelschreiber.com/es/blog/ - ArtikelSchreiber Blog SE  | ArtikelSchreiber.com<br>
+https://www.artikelschreiber.com/fr/blog/ - ArtikelSchreiber Blog FR  | ArtikelSchreiber.com<br>
+https://www.artikelschreiber.com/it/blog/ - ArtikelSchreiber Blog IT  | ArtikelSchreiber.com<br>
 https://www.unaique.net/ - Text Generator deutsch - KI Text Generator | UNAIQUE.NET <br>
 https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET<br>
 https://www.unaique.com/ - UNAIQUE.COM<br>
 https://rechthaben.net/ - Zu Recht & Recht Haben | RechtHaben.net<br>
 https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
-https://www.articlerewriter1.com/ - Article Rewriter: Your No. 1 Rewriter Tool | ArticleRewriter1.com<br>
-https://www.freearticle1.net/ - Free Text: Write free article by AI | FreeArticle1.net<br>
-https://www.schreiben1.com/ - Schreiben für Artikel, Blog, Vlog, Business & Sales | Schreiben1.com<br>
-https://buzzerstar.com/ - Kreiere: Schreibe tollen Text & Artikel | BuzzerStar.com<br>
-https://www.entrepreneur1.net/ - Tools for Entrepreneur, Entrepre & Intrapreneur | entrepreneur1.net<br>
-https://www.paraphrase1.com/ - Paraphrase: Your rewriter tool for rephrase & paraphraser | Paraphrase1.com<br>
-https://www.entrepreneurship1.com/ - Entrepreneurship: Tools for Entrepreneurs & entrepre | Entrepreneurship1.com<br>
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
 https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
 https://github.com/inkassos/inkasso - Inkasso Betrug aufgedeckt<br>
