@@ -78,6 +78,7 @@ https://www.artikelschreiber.com/marketing/paraphrase/<br />
 https://www.artikelschreiber.com/marketing/review/<br />
 https://www.artikelschreiber.com/marketing/<br />
 <br><br>
+https://rechthaben.net/bank/kfw-kredit/<br>
 https://rechthaben.net/gesundheit/superhelden/<br>
 https://rechthaben.net/beratung/irrsinn-in-deutschland/<br>
 https://rechthaben.net/beratung/nationalhymne/<br>
