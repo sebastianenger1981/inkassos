@@ -5,7 +5,7 @@
 Ein Inkassounternehmen darf nicht einfach so Forderungen eintreiben. Sie können die Forderung abwehren [Muster und Anleitung hier downloaden auf]!
 
 <br><br>
-Neuste Version: https://github.com/sebastianenger1981/inkassos/blob/main/2022-10-03%20Wie%20kann%20ich%20eine%20Inkasso%20Forderung%20abwehren%20%5BMuster%20und%20Anleitung%5D%20%5BRechtHaben.net%5D.pdf
+Neuste Version: https://rechthaben.net/2022-10-11-wie-kann-ich-eine-inkasso-forderung-abwehren-muster-und-anleitung-rechthaben-net/
 <br><br>
 
 <strong>Kaufe oder verschenke die KINDLE Version auf Amazon.de - https://www.amazon.de/dp/B09ZSMH2GN </strong>
