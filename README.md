@@ -81,6 +81,7 @@ https://www.artikelschreiber.com/marketing/paraphrase/<br />
 https://www.artikelschreiber.com/marketing/review/<br />
 https://www.artikelschreiber.com/marketing/<br />
 <br><br>
+https://rechthaben.net/inkasso/anschreiben-fur-behoerden/<br>
 https://rechthaben.net/beratung/konzentration-auf-kernkompetenzen-durch-betreibermodelle/<br>
 https://rechthaben.net/gesundheit/ode-an-die-erzengel/<br>
 https://rechthaben.net/bank/kfw-kredit/<br>
