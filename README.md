@@ -62,25 +62,7 @@ http://unaique.org/<br>
 http://kitten1.com<br>
 http://mainecoon1.com<br>
 <br><br>
-https://www.artikelschreiber.com/es/<br />
-https://www.artikelschreiber.com/fr/<br />
-https://www.artikelschreiber.com/it/<br />
-https://www.artikelschreiber.com/pt/<br />
-https://www.artikelschreiber.com/tr/<br />
-https://www.artikelschreiber.com/ru/<br />
-https://www.artikelschreiber.com/in/<br />
-https://www.artikelschreiber.com/cn/<br />
-https://www.artikelschreiber.com/sa/<br />
-https://www.artikelschreiber.com/jp/<br />
-https://www.artikelschreiber.com/marketing/youtube/<br />
-https://www.artikelschreiber.com/en/nft/<br />
-https://www.artikelschreiber.com/marketing/tagline/<br />
-https://www.artikelschreiber.com/marketing/slogan/<br />
-https://www.artikelschreiber.com/marketing/generator/<br />
-https://www.artikelschreiber.com/marketing/paraphrase/<br />
-https://www.artikelschreiber.com/marketing/review/<br />
-https://www.artikelschreiber.com/marketing/<br />
-<br><br>
+https://rechthaben.net/gesundheit/7-solfeggio-frequenzen-vereint/<br>
 https://rechthaben.net/inkasso/anschreiben-fur-behoerden/<br>
 https://rechthaben.net/beratung/konzentration-auf-kernkompetenzen-durch-betreibermodelle/<br>
 https://rechthaben.net/gesundheit/ode-an-die-erzengel/<br>
