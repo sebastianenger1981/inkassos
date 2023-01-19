@@ -109,7 +109,3 @@ https://linktr.ee/textgenerator<br>
 https://muckrack.com/markus-muller<br>
 https://linktr.ee/fachanwalt<br>
 <br>
-<ul>
-				<li><a href="https://huggingface.co/spaces/senger/AI-TextGenerator">https://huggingface.co/spaces/senger/AI-TextGenerator</a></li>
-				<li><a href="https://huggingface.co/spaces/SebastianEnger/textgenerator">https://huggingface.co/spaces/SebastianEnger/textgenerator</a></li>
-			</ul>
