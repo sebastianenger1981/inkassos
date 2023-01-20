@@ -14,28 +14,30 @@ Neuste Version: [https://rechthaben.net/](https://rechthaben.net/inkasso/inkasso
 <strong>Kaufe oder verschenke die KINDLE Version auf Amazon.de - https://www.amazon.de/dp/B09ZSMH2GN </strong>
 <br><br>
 <b>Inhaltsverzeichnis der Inkasso Verteidigung</b><br><br>
-Einleitung<br>
-Ungültige Rechtsmittel in der Bundesrepublik Deutschland<br>
-Welche Rechtsstellung haben denn Inkassobüros?<br>
-Und wie kann man sich gegen Inkassos wehren?<br>
-Verteidigung gegen Inkasso<br>
-SHAEF Gesetze gelten<br>
-Deutschland steht unter Kriegsrecht<br>
-Zwangspfändungen sind illegal<br>
-Privatrechtliche Firmen dürfen kein staatliches Recht sprechen oder ausführen<br>
-Historisches zur Bundesrepublik Deutschland (BRD)<br>
-Forderungstitel bzw. Schuldtitel<br>
-Personalausweis ungültig laut geltendem Personalausweisgesetz - PAuswG<br>
-Steuerbetrug und Beihilfe zum Steuerbetrug<br>
-GESARA und NESARA<br>
-Eidesstattliche Versicherung<br>
-Bundesverfassungsgericht - Aktenzeichen AR 85 73/21<br>
-Forderungstitel und Klauselumschreibung<br>
-Ohne originale Urkunde kein Fall<br>
-Wichtige Urteile<br>
-Entkräftung von Drohgebärden der Inkasso-Dienstleister<br>
-Konsequenzen für rechtswidriges Verhalten von Inkassos<br>
-Weitere Links<br>
+<ol>
+<li>Einleitung</li>
+<li>Ungültige Rechtsmittel in der Bundesrepublik Deutschland</li>
+<li>Welche Rechtsstellung haben denn Inkassobüros?</li>
+<li>Und wie kann man sich gegen Inkassos wehren?</li>
+<li>Verteidigung gegen Inkasso</li>
+<li>SHAEF Gesetze gelten</li>
+<li>Deutschland steht unter Kriegsrecht</li>
+<li>Zwangspfändungen sind illegal</li>
+<li>Privatrechtliche Firmen dürfen kein staatliches Recht sprechen oder ausführen</li>
+<li>Historisches zur Bundesrepublik Deutschland (BRD)</li>
+<li>Forderungstitel bzw. Schuldtitel</li>
+<li>Personalausweis ungültig laut geltendem Personalausweisgesetz - PAuswG</li>
+<li>Steuerbetrug und Beihilfe zum Steuerbetrug</li>
+<li>GESARA und NESARA</li>
+<li>Eidesstattliche Versicherung</li>
+<li>Bundesverfassungsgericht - Aktenzeichen AR 85 73/21</li>
+<li>Forderungstitel und Klauselumschreibung</li>
+<li>Ohne originale Urkunde kein Fall</li>
+<li>Wichtige Urteile</li>
+<li>Entkräftung von Drohgebärden der Inkasso-Dienstleister</li>
+<li>Konsequenzen für rechtswidriges Verhalten von Inkassos</li>
+<li>Weitere Links</li>
+</ol>
 <br><br>
 Weitere Projekte:<br>
 <br><br>
