@@ -41,32 +41,32 @@ Neuste Version: [https://rechthaben.net/](https://rechthaben.net/inkasso/inkasso
 <br><br>
 Weitere Projekte:<br>
 <br><br>
-https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
-https://www.artikelschreiber.com/en/ - Article Generator: Write text for Marketing | ArtikelSchreiber.com<br>
-https://www.artikelschreiber.com/en/blog/ - ArtikelSchreiber Blog EN | ArtikelSchreiber.com<br>
-https://www.artikelschreiber.com/de/blog/ - ArtikelSchreiber Blog DE  | ArtikelSchreiber.com<br>
+<a href="https://www.artikelschreiber.com/">Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com</a><br>
+<a href="https://www.artikelschreiber.com/en/">Article Generator: Write text for Marketing | ArtikelSchreiber.com</a><br>
+<a href="https://www.artikelschreiber.com/en/blog/">ArtikelSchreiber Blog EN | ArtikelSchreiber.com</a><br>
+<a href="https://www.artikelschreiber.com/de/blog/">ArtikelSchreiber Blog DE  | ArtikelSchreiber.com</a><br>
 https://www.artikelschreiber.com/es/blog/ - ArtikelSchreiber Blog SE  | ArtikelSchreiber.com<br>
 https://www.artikelschreiber.com/fr/blog/ - ArtikelSchreiber Blog FR  | ArtikelSchreiber.com<br>
 https://www.artikelschreiber.com/it/blog/ - ArtikelSchreiber Blog IT  | ArtikelSchreiber.com<br>
-https://www.unaique.net/ - Text Generator deutsch - KI Text Generator | UNAIQUE.NET <br>
-https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET<br>
-https://www.unaique.com/ - UNAIQUE.COM<br>
-https://rechthaben.net/ - Zu Recht & Recht Haben | RechtHaben.net<br>
+<a href="https://www.unaique.net/">Text Generator deutsch - KI Text Generator | UNAIQUE.NET</a><br>
+<a href="https://www.unaique.net/en/">CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET</a><br>
+<a href="https://www.unaique.com/">UNAIQUE.COM</a><br>
+<a href="https://rechthaben.net/">Zu Recht & Recht Haben | RechtHaben.net</a><br>
 https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
 https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
 https://github.com/inkassos/inkasso - Inkasso Betrug aufgedeckt<br>
-https://www.artikelschreiber.com/status/ - ArtikelSchreiber.com Changelog and Status Information<br>
-https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com
+<a href="https://www.artikelschreiber.com/status/">ArtikelSchreiber.com Changelog and Status Information</a><br>
+<a href="https://www.artikelschreiben.com/">Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com</a><br>
 http://artikelschreiber.net/<br> 
 http://unaique.de/<br> 
 http://unaique.org/<br>
 http://kitten1.com<br>
 http://mainecoon1.com<br>
 <br><br>
-https://rechthaben.net/beratung/grillen-im-essen/<br>
-https://rechthaben.net/beratung/grundsteuererklaerung/<br>
-https://rechthaben.net/beratung/steuer-2022/<br>
+<a href="https://rechthaben.net/beratung/grillen-im-essen/">grillen-im-essen</a><br>
+<a href="https://rechthaben.net/beratung/grundsteuererklaerung/">grundsteuererklaerung</a><br>
+<a href="https://rechthaben.net/beratung/steuer-2022/">steuer-2022</a><br>
 https://rechthaben.net/gesundheit/7-solfeggio-frequenzen-vereint/<br>
 https://rechthaben.net/inkasso/anschreiben-fur-behoerden/<br>
 https://rechthaben.net/beratung/konzentration-auf-kernkompetenzen-durch-betreibermodelle/<br>
@@ -108,7 +108,7 @@ https://rechthaben.net/rechtsanwalt/strafantrag-gegen-rehda/<br>
 https://rechthaben.net/beratung/rechtsanwaltskammer-land-brandenburg/<br>
 
 Freunde:<br>
-https://linktr.ee/textgenerator<br>
-https://muckrack.com/markus-muller<br>
-https://linktr.ee/fachanwalt<br>
+<a href="https://linktr.ee/textgenerator">textgenerator</a><br>
+<a href="https://muckrack.com/markus-muller">markus-muller</a><br>
+<a href="https://linktr.ee/fachanwalt">fachanwalt</a><br>
 <br>
