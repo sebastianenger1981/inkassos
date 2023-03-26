@@ -57,12 +57,11 @@ https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
 https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
 https://github.com/inkassos/inkasso - Inkasso Betrug aufgedeckt<br>
 <a href="https://www.artikelschreiber.com/status/">ArtikelSchreiber.com Changelog and Status Information</a><br>
-<a href="https://www.artikelschreiben.com/">Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com</a><br>
+<a href="https://www.artikelschreiben.com/">Artikel schreiben mit ChatGPT KI | ArtikelSchreiben.com</a><br>
 http://artikelschreiber.net/<br> 
 http://unaique.de/<br> 
 http://unaique.org/<br>
-http://kitten1.com<br>
-http://mainecoon1.com<br>
+
 <br><br>
 <a href="https://rechthaben.net/beratung/grillen-im-essen/">grillen-im-essen</a><br>
 <a href="https://rechthaben.net/beratung/grundsteuererklaerung/">grundsteuererklaerung</a><br>
