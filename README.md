@@ -105,4 +105,8 @@ Freunde:<br>
 <a href="https://linktr.ee/textgenerator">textgenerator</a><br>
 <a href="https://muckrack.com/markus-muller">markus-muller</a><br>
 <a href="https://linktr.ee/fachanwalt">fachanwalt</a><br>
+
+Weitere Freunde:<br>
+• https://linktr.ee/tarotcardreading<br>
+• https://muckrack.com/cecile-tarot<br>
 <br>
