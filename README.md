@@ -43,16 +43,11 @@ Weitere Projekte:<br>
 <br><br>
 <a href="https://www.artikelschreiber.com/">Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com</a><br>
 <a href="https://www.artikelschreiber.com/en/">Article Generator: Write text for Marketing | ArtikelSchreiber.com</a><br>
-<a href="https://www.artikelschreiber.com/en/blog/">ArtikelSchreiber Blog EN | ArtikelSchreiber.com</a><br>
-<a href="https://www.artikelschreiber.com/de/blog/">ArtikelSchreiber Blog DE  | ArtikelSchreiber.com</a><br>
-https://www.artikelschreiber.com/es/blog/ - ArtikelSchreiber Blog SE  | ArtikelSchreiber.com<br>
-https://www.artikelschreiber.com/fr/blog/ - ArtikelSchreiber Blog FR  | ArtikelSchreiber.com<br>
-https://www.artikelschreiber.com/it/blog/ - ArtikelSchreiber Blog IT  | ArtikelSchreiber.com<br>
+<a href="https://www.artikelschreiber.com/texts/">ArtikelSchreiber Blog EN | ArtikelSchreiber.com</a><br>
 <a href="https://www.unaique.net/">Text Generator deutsch - KI Text Generator | UNAIQUE.NET</a><br>
 <a href="https://www.unaique.net/en/">CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET</a><br>
 <a href="https://www.unaique.com/">UNAIQUE.COM</a><br>
 <a href="https://rechthaben.net/">Zu Recht & Recht Haben | RechtHaben.net</a><br>
-https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
 https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
 https://github.com/inkassos/inkasso - Inkasso Betrug aufgedeckt<br>
