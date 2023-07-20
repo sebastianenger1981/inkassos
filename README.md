@@ -46,7 +46,7 @@ Weitere Projekte:<br>
 <a href="https://www.artikelschreiber.com/texts/">ArtikelSchreiber Blog EN | ArtikelSchreiber.com</a><br>
 <a href="https://www.unaique.net/">Text Generator deutsch - KI Text Generator | UNAIQUE.NET</a><br>
 <a href="https://www.unaique.net/en/">CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET</a><br>
-<a href="https://www.unaique.com/">UNAIQUE.COM</a><br>
+<a href="https://www.unaique.com/">AI Writer</a><br>
 <a href="https://rechthaben.net/">Zu Recht & Recht Haben | RechtHaben.net</a><br>
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
 https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
@@ -100,6 +100,7 @@ https://rechthaben.net/rechtsanwalt/kanzlei-auer-witte-thiel/<br>
 https://rechthaben.net/rechtsanwalt/haftpflichtversicherung/<br>
 https://rechthaben.net/rechtsanwalt/strafantrag-gegen-rehda/<br>
 https://rechthaben.net/beratung/rechtsanwaltskammer-land-brandenburg/<br>
+https://rechthaben.net/jura/steueroptimierung/<br>
 
 Freunde:<br>
 <a href="https://linktr.ee/textgenerator">textgenerator</a><br>
@@ -107,6 +108,13 @@ Freunde:<br>
 <a href="https://linktr.ee/fachanwalt">fachanwalt</a><br>
 
 Weitere Freunde:<br>
+• https://linktr.ee/textgenerator<br>
+• https://muckrack.com/markus-muller<br>
+• https://linktr.ee/fachanwalt<br>
 • https://linktr.ee/tarotcardreading<br>
 • https://muckrack.com/cecile-tarot<br>
+• https://twitter.com/thelaurafaye<br>
+• https://linktr.ee/laurafaye<br>
+• https://calendly.com/laurafaye/60min<br>
+• https://www.patreon.com/LauraFaye<br>
 <br>
