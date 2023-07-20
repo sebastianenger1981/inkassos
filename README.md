@@ -102,6 +102,7 @@ https://rechthaben.net/rechtsanwalt/strafantrag-gegen-rehda/<br>
 https://rechthaben.net/beratung/rechtsanwaltskammer-land-brandenburg/<br>
 https://rechthaben.net/jura/steueroptimierung/<br>
 https://rechthaben.net/allgemein/funkuebertragung-im-mobilfunk/<br>
+https://rechthaben.net/allgemein/bachelorarbeit-softwareseitige-absicherung-von-linux-systemen-gegen-netzwerkbasierte-angriffe/<br>
 
 Freunde:<br>
 <a href="https://linktr.ee/textgenerator">textgenerator</a><br>
