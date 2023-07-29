@@ -48,6 +48,7 @@ Weitere Projekte:<br>
 <a href="https://www.unaique.net/en/">CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET</a><br>
 <a href="https://www.unaique.com/">AI Writer</a><br>
 <a href="https://rechthaben.net/">Zu Recht & Recht Haben | RechtHaben.net</a><br>
+<b><a href="https://www.artikelschreiber.com/advanced/de/" target="_self" hreflang="de" title="ArtikelSchreiber.com - Erweiterte Suche">ArtikelSchreiber.com - Erweiterte Suche</a></b><br>
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
 https://inkassos.github.io/inkasso/ - Inkasso Verteidigung<br>
 https://github.com/inkassos/inkasso - Inkasso Betrug aufgedeckt<br>
