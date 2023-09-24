@@ -57,7 +57,8 @@ https://github.com/inkassos/inkasso - Inkasso Betrug aufgedeckt<br>
 http://artikelschreiber.net/<br> 
 http://unaique.de/<br> 
 http://unaique.org/<br>
-
+<li><a href="https://substack.com/@sebastianenger" target='_self' hreflang='de' title="Sebastian Enger auf Substrack">Sebastian Enger auf Substrack</a></li>   <br>
+<li><a href="https://artikelschreiber.substack.com/p/die-evolution-des-webinhalts-von" target='_self' hreflang='de' title="Die Evolution des Webinhalts: Von KI zu AGI">Die Evolution des Webinhalts: Von KI zu AGI</a></li>  <br>
 <br><br>
 <a href="https://rechthaben.net/beratung/grillen-im-essen/">grillen-im-essen</a><br>
 <a href="https://rechthaben.net/beratung/grundsteuererklaerung/">grundsteuererklaerung</a><br>
